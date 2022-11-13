@@ -1,0 +1,21 @@
+{
+    "name": "Tokyo Night",
+    "displayName": "Tokyo Night",
+    "description": "Tokyo Night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tokyo Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tokyo-night-color-theme.json"
+            }
+        ]
+    }
+}
