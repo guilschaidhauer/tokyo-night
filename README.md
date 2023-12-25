@@ -1,1 +1,1 @@
-# tokyo-night
+# Tokyo Night
